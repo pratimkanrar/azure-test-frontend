@@ -1,5 +1,6 @@
 {
   "name": "azure-test-frontend",
+  "homepage": "https://pratimkanrar.github.io/azure-test-frontend/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
