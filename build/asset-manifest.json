@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/azure-test-frontend/static/css/main.073c9b0a.css",
+    "main.js": "/azure-test-frontend/static/js/main.8cd96243.js",
+    "static/js/787.5ba80730.chunk.js": "/azure-test-frontend/static/js/787.5ba80730.chunk.js",
+    "index.html": "/azure-test-frontend/index.html",
+    "main.073c9b0a.css.map": "/azure-test-frontend/static/css/main.073c9b0a.css.map",
+    "main.8cd96243.js.map": "/azure-test-frontend/static/js/main.8cd96243.js.map",
+    "787.5ba80730.chunk.js.map": "/azure-test-frontend/static/js/787.5ba80730.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8cd96243.js"
+  ]
+}
